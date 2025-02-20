@@ -31,6 +31,7 @@ Con la información que disponemos se pide:
 
 Análisis de requisitos funcionales 
 
+
 Construcción del modelo de datos (clases) y casos de uso posibles 
 
 Diseño de la estructura de base de datos utilizando una base de datos relacional SQLite 
